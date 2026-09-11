@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyze Product"
+  short_description: "基于页面证据逆向拆解 AI 产品旅程、Agent、工具、上下文与架构"
+  default_prompt: "使用 $analyze-product 从页面与项目材料中完成一套可追溯的 AI 产品架构拆解。"

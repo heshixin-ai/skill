@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1440" viewBox="0 0 1440 1440" role="img" aria-labelledby="title desc">
+<title id="title">分镜工坊：从页面证据到产品架构</title>
+<desc id="desc">虚构教学案例。左侧是界面、Agent、任务与资产等页面事实及两个冲突；右侧是独立建议设计；底部为推断与未知。箭头表示可见操作顺序和页面关系，不表示已验证的内部服务调用。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10" fill="none" stroke="#64748b" stroke-width="1.5"/></marker></defs>
+<rect width="1440" height="1440" fill="#f8fafc"/>
+<g font-family="PingFang SC, Noto Sans CJK SC, Microsoft YaHei, sans-serif">
+<text x="48" y="66" font-size="20" font-weight="650" fill="#356bd0">Analyze Product</text>
+<text x="48" y="114" font-size="40" font-weight="700" fill="#142236">从页面证据到产品架构</text>
+<text x="48" y="149" font-size="21" font-weight="400" fill="#64748b">分镜工坊 · 虚构教学材料 · 证据 E001–E010 · 非真实产品测试</text>
+<rect x="48" y="177" width="22" height="15" rx="16" fill="#effaf4" stroke="#22815c" stroke-width="2"/>
+<text x="82" y="192" font-size="18" font-weight="500" fill="#334155">页面事实</text>
+<rect x="285" y="177" width="22" height="15" rx="16" fill="#fff1f2" stroke="#bd3b4b" stroke-width="2"/>
+<text x="319" y="192" font-size="18" font-weight="500" fill="#334155">观察到的冲突</text>
+<rect x="565" y="177" width="22" height="15" rx="16" fill="#fff9ed" stroke="#ac761e" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="599" y="192" font-size="18" font-weight="500" fill="#334155">合理推断</text>
+<rect x="810" y="177" width="22" height="15" rx="16" fill="#f3f4f6" stroke="#717b8d" stroke-width="2" stroke-dasharray="2 3"/>
+<text x="844" y="192" font-size="18" font-weight="500" fill="#334155">未知</text>
+<rect x="1020" y="177" width="22" height="15" rx="16" fill="#eff6ff" stroke="#356bd0" stroke-width="2"/>
+<text x="1054" y="192" font-size="18" font-weight="500" fill="#334155">建议设计</text>
+<rect x="48" y="222" width="832" height="883" rx="16" fill="#ffffff" stroke="#dce4ec" stroke-width="1.5"/>
+<rect x="912" y="222" width="480" height="883" rx="16" fill="#ffffff" stroke="#dce4ec" stroke-width="1.5"/>
+<text x="80" y="263" font-size="24" font-weight="650" fill="#142236">已观察到的功能表面与操作顺序</text>
+<text x="944" y="263" font-size="24" font-weight="650" fill="#356bd0">To-Be · 建议设计</text>
+<rect x="80" y="291" width="768" height="94" rx="16" fill="#effaf4" stroke="#22815c" stroke-width="1.5"/>
+<text x="100" y="324" font-size="23" font-weight="650" fill="#22815c">用户与项目配置  [E001]</text>
+<text x="100" y="357" font-size="19" font-weight="400" fill="#334155">三张分镜图 · 每镜头规划 5 秒 · 横屏 16:9</text>
+<polyline points="464,385 464,425" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="484" y="411" font-size="17" font-weight="500" fill="#64748b">提交需求 / 确认脚本</text>
+<rect x="80" y="428" width="768" height="94" rx="16" fill="#effaf4" stroke="#22815c" stroke-width="1.5"/>
+<text x="100" y="461" font-size="23" font-weight="650" fill="#22815c">产品工作台  [E002–E003 / E008–E010]</text>
+<text x="100" y="494" font-size="19" font-weight="400" fill="#334155">聊天 · 脚本与场景画布 · 保存场景 · 停止指令</text>
+<polyline points="265,522 265,569" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="100" y="551" font-size="17" font-weight="500" fill="#64748b">出现脚本</text>
+<polyline points="663,522 663,569" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="681" y="551" font-size="17" font-weight="500" fill="#64748b">确认后响应</text>
+<rect x="80" y="573" width="340" height="92" rx="16" fill="#effaf4" stroke="#22815c" stroke-width="1.5"/>
+<text x="100" y="606" font-size="23" font-weight="650" fill="#22815c">脚本助手  [E002]</text>
+<text x="100" y="639" font-size="19" font-weight="400" fill="#334155">脚本 v1 与待确认入口</text>
+<rect x="508" y="573" width="340" height="92" rx="16" fill="#effaf4" stroke="#22815c" stroke-width="1.5"/>
+<text x="528" y="606" font-size="23" font-weight="650" fill="#22815c">分镜助手  [E003–E010]</text>
+<text x="528" y="639" font-size="19" font-weight="400" fill="#334155">开始 / 完成 / 停止回复</text>
+<polyline points="678,665 678,695 250,695 250,729" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="294" y="719" font-size="17" font-weight="500" fill="#64748b">分镜阶段出现任务与资产</text>
+<polyline points="678,695 678,729" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="80" y="733" width="340" height="111" rx="16" fill="#effaf4" stroke="#22815c" stroke-width="1.5"/>
+<text x="100" y="766" font-size="23" font-weight="650" fill="#22815c">任务记录  [E004–E007]</text>
+<text x="100" y="799" font-size="19" font-weight="400" fill="#334155">JOB-01：部分失败</text>
+<text x="100" y="827" font-size="19" font-weight="400" fill="#334155">JOB-02：第二镜头重试完成</text>
+<rect x="508" y="733" width="340" height="111" rx="16" fill="#effaf4" stroke="#22815c" stroke-width="1.5"/>
+<text x="528" y="766" font-size="23" font-weight="650" fill="#22815c">资产与预览  [E005–E009]</text>
+<text x="528" y="799" font-size="19" font-weight="400" fill="#334155">三张图片；来源版本可见</text>
+<text x="528" y="827" font-size="19" font-weight="400" fill="#334155">可预览不等于符合新需求</text>
+<rect x="80" y="873" width="768" height="88" rx="16" fill="#fff1f2" stroke="#bd3b4b" stroke-width="1.5"/>
+<text x="100" y="906" font-size="23" font-weight="650" fill="#bd3b4b">C001 · 完成声明与结果冲突  [E005]</text>
+<text x="100" y="939" font-size="19" font-weight="400" fill="#334155">聊天“全部完成”，第二镜头却超时且没有图片。</text>
+<rect x="80" y="984" width="768" height="88" rx="16" fill="#fff1f2" stroke="#bd3b4b" stroke-width="1.5"/>
+<text x="100" y="1017" font-size="23" font-weight="650" fill="#bd3b4b">C002 · 最新标记与版本冲突  [E008–E010]</text>
+<text x="100" y="1050" font-size="19" font-weight="400" fill="#334155">场景已为夜晚 v2，白天旧图仍引用 v1 并标“最新”。</text>
+<rect x="944" y="291" width="416" height="157" rx="16" fill="#eff6ff" stroke="#356bd0" stroke-width="2.6"/>
+<text x="964" y="324" font-size="23" font-weight="650" fill="#356bd0">01  完成前检查  ← C001</text>
+<text x="964" y="357" font-size="19" font-weight="400" fill="#334155">核对必需图片、任务与预览。</text>
+<text x="964" y="385" font-size="19" font-weight="400" fill="#334155">部分失败时说明缺失项，</text>
+<text x="964" y="413" font-size="19" font-weight="400" fill="#334155">保留用户可操作的重试入口。</text>
+<rect x="944" y="475" width="416" height="157" rx="16" fill="#eff6ff" stroke="#356bd0" stroke-width="2.6"/>
+<text x="964" y="508" font-size="23" font-weight="650" fill="#356bd0">02  版本依赖检查  ← C002</text>
+<text x="964" y="541" font-size="19" font-weight="400" fill="#334155">场景保存后核对图片来源版本。</text>
+<text x="964" y="569" font-size="19" font-weight="400" fill="#334155">旧图标记待更新；重新生成</text>
+<text x="964" y="597" font-size="19" font-weight="400" fill="#334155">遵循用户的明确授权。</text>
+<rect x="944" y="659" width="416" height="157" rx="16" fill="#eff6ff" stroke="#356bd0" stroke-width="2.6"/>
+<text x="964" y="692" font-size="23" font-weight="650" fill="#356bd0">03  区分历史与当前  [E007]</text>
+<text x="964" y="725" font-size="19" font-weight="400" fill="#334155">保留旧任务的失败记录。</text>
+<text x="964" y="753" font-size="19" font-weight="400" fill="#334155">关联重试任务、镜头与资产，</text>
+<text x="964" y="781" font-size="19" font-weight="400" fill="#334155">另行展示当前可预览状态。</text>
+<rect x="944" y="843" width="416" height="157" rx="16" fill="#eff6ff" stroke="#356bd0" stroke-width="2.6"/>
+<text x="964" y="876" font-size="23" font-weight="650" fill="#356bd0">04  停止后保留问题  [E010]</text>
+<text x="964" y="909" font-size="19" font-weight="400" fill="#334155">收到停止指令后不新增任务。</text>
+<text x="964" y="937" font-size="19" font-weight="400" fill="#334155">保留未解决的版本不一致，</text>
+<text x="964" y="965" font-size="19" font-weight="400" fill="#334155">下一步等待用户指令。</text>
+<text x="944" y="1046" font-size="18" font-weight="500" fill="#356bd0">以上为建议，未在输入中验证实现。</text>
+<rect x="48" y="1137" width="654" height="172" rx="16" fill="#fff9ed" stroke="#ac761e" stroke-width="1.5" stroke-dasharray="8 6"/>
+<text x="68" y="1170" font-size="23" font-weight="650" fill="#ac761e">H001 · 合理推断  [C001 + C002]</text>
+<text x="68" y="1203" font-size="19" font-weight="400" fill="#334155">多处状态展示可能使用不同的更新路径。</text>
+<text x="68" y="1231" font-size="19" font-weight="400" fill="#334155">前端展示缺陷或判断缺失也能解释现象。</text>
+<text x="68" y="1259" font-size="19" font-weight="400" fill="#334155">不能据此确认内部服务、缓存或队列。</text>
+<rect x="730" y="1137" width="662" height="172" rx="16" fill="#f3f4f6" stroke="#717b8d" stroke-width="1.5" stroke-dasharray="2 6"/>
+<text x="750" y="1170" font-size="23" font-weight="650" fill="#717b8d">未知 · 当前材料没有答案</text>
+<text x="750" y="1203" font-size="19" font-weight="400" fill="#334155">模型供应商、数据库、存储与调度机制。</text>
+<text x="750" y="1231" font-size="19" font-weight="400" fill="#334155">幂等与重试计费；运行中任务的取消能力。</text>
+<text x="750" y="1259" font-size="19" font-weight="400" fill="#334155">15 秒仅为规划参数，未观察到导出视频。</text>
+<text x="48" y="1352" font-size="21" font-weight="650" fill="#142236">最终快照  [E010]</text>
+<text x="270" y="1352" font-size="21" font-weight="500" fill="#bd3b4b">用户已要求停止；三图可预览，第一镜头仍不符合夜景需求。</text>
+<text x="48" y="1396" font-size="18" font-weight="400" fill="#64748b">箭头表示可见操作顺序和页面关系，不代表已验证的后台调用。完整证据与局限见同目录 report.md。</text>
+</g></svg>
